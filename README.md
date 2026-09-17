@@ -75,10 +75,10 @@ A skill for your coding assistant that stops it from burying the answer. Action 
 3. End with one concrete next step.
 4. Suppress tangents.
 5. Restate state every turn.
-6. Specific time estimates (minutes, not "a bit").
+6. Specific time estimates (minutes, not "a bit"), with the basis named.
 7. Make wins visible.
 8. Matter-of-fact errors.
-9. Cap lists to 5 items.
+9. Show 5, keep the rest (presentation only, nothing dropped).
 10. No preamble. No recap. No closers.
 
 ## Tune it
